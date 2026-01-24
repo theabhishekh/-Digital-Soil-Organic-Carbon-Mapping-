@@ -10,7 +10,6 @@ The goal of this project is to:
 - Analyze SOC-related data
 - Map digital security operations
 - Visualize relationships between events, alerts, and responses
-- Support research, learning, and experimentation in cybersecurity and SOC automation
 
 ---
 
